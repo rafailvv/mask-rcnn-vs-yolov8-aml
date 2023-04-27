@@ -2,13 +2,13 @@
 
 ### Task consition:
 
-1. Take photos of the environment of two or more objects. (at least 100 instances between all objects) 
+1. Take photos of your environment of two or more objects. (at least 100 instances between all objects) 
 
-2. Annotate them on roboflow. 
+2. Annotate them on Roboflow for segmentation. 
 
-3. Train a Faster RCNN model using detectron2.
+3. Train a Mask RCNN model using detectron2
 
-4. Train Yolov8 the smallest size.
+4. Train Yolov8  the smallest size for segmentation
 
 5. Evaluate both models based on mAP and speed and size.
 
