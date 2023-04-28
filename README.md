@@ -20,15 +20,15 @@
 
 In this example, I have worked with objects such as a screwdriver and a wrench. Below are examples of data images of two types of objects:
 
-<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/screwdriver.jpg" alt="Screwdriver" width="320"/><img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/wrench.jpg" alt="Wrench" width="320"/>
+<img src="https://github.com/rafailvv/mask-rcnn-vs-yolov8-aml/blob/main/examples/screwdriver.jpg" alt="Screwdriver" width="320"/><img src="https://github.com/rafailvv/mask-rcnn-vs-yolov8-aml/blob/main/examples/wrench.jpg" alt="Wrench" width="320"/>
 
 # Annotation with roboflow
 
 Next, I annotated 100 made objects (50 of each type) using roboflow
 
-<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/annotation_screwdriver.jpg" alt="Annotation Screwdriver" width="1200"/>
-<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/annotation_wrench.jpg" alt="Annotation Wrench" width="1200"/>
-<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/annotation_dataset.jpg" alt="Annotation Dataset" width="1200"/>
+<img src="https://github.com/rafailvv/mask-rcnn-vs-yolov8-aml/blob/main/examples/annotation_screwdriver.jpg" alt="Annotation Screwdriver" width="1200"/>
+<img src="https://github.com/rafailvv/mask-rcnn-vs-yolov8-aml/blob/main/examples/annotation_wrench.jpg" alt="Annotation Wrench" width="1200"/>
+<img src="https://github.com/rafailvv/mask-rcnn-vs-yolov8-aml/blob/main/examples/annotation_dataset.jpg" alt="Annotation Dataset" width="1200"/>
 
 # Mask RCNN using detectron2
 
