@@ -30,7 +30,7 @@ Next, I annotated 100 made objects (50 of each type) using roboflow
 <img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/annotation_wrench.jpg" alt="Annotation Wrench" width="1200"/>
 <img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/annotation_dataset.jpg" alt="Annotation Dataset" width="1200"/>
 
-# Faster RCNN using detectron2
+# Mask RCNN using detectron2
 
 Based on the official detectron2 and roboflow documentation, I was able to train RCNN using detectron2.
 
