@@ -69,7 +69,7 @@ Yolov8 is much smaller than RCNN.
 # Resources
 
 - https://arxiv.org/abs/1506.01497
-- https://github.com/pytorch/vision/blob/main/torchvision/models/detection/faster_rcnn.py
+- https://github.com/pytorch/vision/blob/main/torchvision/models/detection/mask_rcnn.py
 - https://github.com/tensorflow/models/tree/master/research/object_detection
 - https://roboflow.com/
 - https://blog.roboflow.com/faster-rcnn/
