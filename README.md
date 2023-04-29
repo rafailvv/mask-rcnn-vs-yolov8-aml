@@ -35,8 +35,8 @@ Next, I annotated 100 made objects (50 of each type) using roboflow
 Based on the official detectron2 and roboflow documentation, I was able to train RCNN using detectron2.
 
 <img src="https://github.com/rafailvv/mask-rcnn-vs-yolov8-aml/blob/main/examples/rcnn_results.PNG" alt="RCNN Results" width="800"/>
-<img src="https://github.com/rafailvv/mask-rcnn-vs-yolov8-aml/blob/main/examples/screwdriver_res_rccn.png" alt="Screwdriver Results" width="800"/>
-<img src="https://github.com/rafailvv/mask-rcnn-vs-yolov8-aml/blob/main/examples/wrench_res_rccn.png" alt="Wrench Results" width="800"/>
+<img src="https://github.com/rafailvv/mask-rcnn-vs-yolov8-aml/blob/main/examples/screwdriver_res_rccn.png" alt="Screwdriver Results" width="320"/>
+<img src="https://github.com/rafailvv/mask-rcnn-vs-yolov8-aml/blob/main/examples/wrench_res_rccn.png" alt="Wrench Results" width="320"/>
 
 # Yolov8
 
