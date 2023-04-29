@@ -46,21 +46,21 @@ Based on the official documentation of yolo and rotoflow, I was able to train th
 # Comparison
 
 **Mean Average Precision (mAP)**:
-  - Faster RCNN: 84.53%
-  - Yolov8: 93.33%
+  - Mask RCNN: 77.11%
+  - Yolov8: 93%
 
 Yolov8 has slightly better mAP than RCNN.
 
 **Speed:**
-  - Faster RCNN: training for 1500 iterations in 56 minutes
+  - Mask RCNN: training for 1000 iterations in 6 minutes
   - Yolov8: training for 24 epochs in 2 minutes
 
 Yolov8 is much faster than RCNN.
 
 **Model size:**
-  - Fater RCNN: 719.7 MB
-  - Yolov8: 22.5 MB
-  
+  - Mask RCNN: 335.82 MB
+  - Yolov8: 23.8 MB
+
 Yolov8 is much smaller than RCNN.
 
 
